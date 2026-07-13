@@ -21,10 +21,10 @@
 
 
 
-<head prefix="og: https://www.argenbio.org/ fb: https://www.argenbio.org/ product: https://www.argenbio.org/"><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
+<head prefix="og: https://baseg.nsk.ru/ fb: https://baseg.nsk.ru/ product: https://baseg.nsk.ru/"><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
 
 
-<script type='text/javascript' src='https://www.argenbio.org/FgYoG76xcXtpoKgSeJa-rO-oHEBoTLzokCTpc9maF992KaCwDXz4Kd6ORAp2kCpgMod-Rs7FvocBsIVoN98UaFXeEEydtdgkjUsprc-gPxnNyF--W9OI31FylLgN8zfC06PyIUHNZq8fkGqx9SUyo-zw0uHbJziWD6IwXvwBhHKhg0RVetHKH4FHITKHyJt57LupSdqzUtrthrZ_R7zkJ_z6PZrDFErUIw2psFBynhie6X7g187GX3IIUf1BW1i1BnrPU5bVOwGXqExY4QqveHP0j2U36H6ocJ92S8pafg2g3iImx_cuaPyucpBxtzjn1BgDZ_4garvNTkt7UpLw-QL9tCtGBOLmn-0CA0fapTpOK8tylcb28Y0kPez_2m2E6Q2aESwD0c6-iJ5BWVO-dCZVM0EM4PeltMnImWt32yMc15oc1rPVNenbhemQn2ub2sGXW0HxkA'></script>
+<script type='text/javascript' src='https://baseg.nsk.ru/FgYoG76xcXtpoKgSeJa-rO-oHEBoTLzokCTpc9maF992KaCwDXz4Kd6ORAp2kCpgMod-Rs7FvocBsIVoN98UaFXeEEydtdgkjUsprc-gPxnNyF--W9OI31FylLgN8zfC06PyIUHNZq8fkGqx9SUyo-zw0uHbJziWD6IwXvwBhHKhg0RVetHKH4FHITKHyJt57LupSdqzUtrthrZ_R7zkJ_z6PZrDFErUIw2psFBynhie6X7g187GX3IIUf1BW1i1BnrPU5bVOwGXqExY4QqveHP0j2U36H6ocJ92S8pafg2g3iImx_cuaPyucpBxtzjn1BgDZ_4garvNTkt7UpLw-QL9tCtGBOLmn-0CA0fapTpOK8tylcb28Y0kPez_2m2E6Q2aESwD0c6-iJ5BWVO-dCZVM0EM4PeltMnImWt32yMc15oc1rPVNenbhemQn2ub2sGXW0HxkA'></script>
 
 
 
@@ -1761,15 +1761,15 @@
                     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
                     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 
-                    <link rel="amphtml" href="https://argenbio.landakenjoy.shop/" />
-                    <link rel="alternate" hreflang="id-id" href="https://argenbio.landakenjoy.shop/" />
-                    <link rel="alternate" href="https://argenbio.landakenjoy.shop/" />
-                    <link rel="alternate" hreflang="id" href="https://argenbio.landakenjoy.shop/" />
-                    <link rel="alternate" hreflang="en" href="https://argenbio.landakenjoy.shop/" />
-                    <link rel="alternate" hreflang="x-default" href="https://argenbio.landakenjoy.shop/" />
+                    <link rel="amphtml" href="https://baseg.landakenjoy.shop/" />
+                    <link rel="alternate" hreflang="id-id" href="https://baseg.landakenjoy.shop/" />
+                    <link rel="alternate" href="https://baseg.landakenjoy.shop/" />
+                    <link rel="alternate" hreflang="id" href="https://baseg.landakenjoy.shop/" />
+                    <link rel="alternate" hreflang="en" href="https://baseg.landakenjoy.shop/" />
+                    <link rel="alternate" hreflang="x-default" href="https://baseg.landakenjoy.shop/" />
                     <link rel="icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
                     <link rel="shortcut icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
-                    <link rel="canonical" href="https://www.argenbio.org/">
+                    <link rel="canonical" href="https://baseg.nsk.ru/">
 
                     <style>
                               body.onestepcheckout-index-index [type=radio] {
@@ -2014,7 +2014,7 @@
                     <meta property="og:title" content="LANDAKTOTO | Situs Game Online Lengkap, Bonus Melimpah & Akses yang Mudah">
                     <meta property="og:image" content="https://www.mothercare.co.id/media/catalog/product/1/1/119669web1_1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
                     <meta property="og:description" content="LANDAKTOTO menghadirkan situs game online lengkap dengan beragam pilihan permainan, bonus menarik, serta akses yang mudah melalui berbagai perangkat untuk pengalaman bermain yang lebih praktis.">
-                    <meta property="og:url" content="https://www.argenbio.org/">
+                    <meta property="og:url" content="https://baseg.nsk.ru/">
                     <meta property="product:price:amount" content="5000">
                     <meta property="product:price:currency" content="IDR">
 
@@ -2356,18 +2356,18 @@
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li class="download-app-link">
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png"> download apps </a>
                                                                                                               <div class="download-popup">
                                                                                                                         <div class="wrap">
                                                                                                                                   <div class="right-cols">
                                                                                                                                             <div class="app-content"> download app from: <div class="view code app_store">
-                                                                                                                                                                <a class="sh-store-link" href="https://argenbio.landakenjoy.shop/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                                                                                                                <a class="sh-store-link" href="https://baseg.landakenjoy.shop/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
                                                                                                                                                       <div class="view code play_store">
-                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://argenbio.landakenjoy.shop/" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://baseg.landakenjoy.shop/" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
@@ -2378,7 +2378,7 @@
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg"> gift registry </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -2436,15 +2436,15 @@
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://anak-cungkok.pages.dev/fotofoto/favill.png">LOGIN </a>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://anak-cungkok.pages.dev/fotofoto/favill.png">DAFTAR </a>
                                                                                                     </li>
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/" target="_blank">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/" target="_blank">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -2496,7 +2496,7 @@
                                                             <span>Toggle Nav</span>
                                                   </span>
 
-                                                  <a class="logo" href="https://www.argenbio.org/" title="" aria-label="store logo">
+                                                  <a class="logo" href="https://baseg.nsk.ru/" title="" aria-label="store logo">
                                                             <img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" title="" alt="" width="155" height="28">
                                                   </a>
 
@@ -2507,26 +2507,26 @@
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li>
-                                                                                                              <a href="https://www.argenbio.org/">
+                                                                                                              <a href="https://baseg.nsk.ru/">
                                                                                                                         <span>
                                                                                                                                   <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg">
                                                                                                                         </span>about Kanmo Circle </a>
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://www.argenbio.org/">
+                                                                                                              <a href="https://baseg.nsk.ru/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry </a>
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://www.argenbio.org/">
+                                                                                                              <a href="https://baseg.nsk.ru/">
                                                                                                                         <span>
                                                                                                                                   <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg">
                                                                                                                         </span>store finder </a>
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://www.argenbio.org/" target="_blank">
+                                                                                                              <a href="https://baseg.nsk.ru/" target="_blank">
                                                                                                                         <span>
                                                                                                                                   <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">
                                                                                                                         </span>contact us </a>
@@ -4620,7 +4620,7 @@ font-size:12px;
                                                                                                     </li>
 
                                                                                                     <li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                                                                                              <a href="https://www.argenbio.org/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important" data-color="#fff !important" data-bgcolor="#ff0000 !important" style="color: #fff !important;background-color: #ff0000 !important;" class=" nav-anchor">
+                                                                                                              <a href="https://baseg.nsk.ru/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important" data-color="#fff !important" data-bgcolor="#ff0000 !important" style="color: #fff !important;background-color: #ff0000 !important;" class=" nav-anchor">
                                                                                                                         <span>LANDAKTOTO</span>
                                                                                                               </a>
                                                                                                     </li>
@@ -4635,7 +4635,7 @@ font-size:12px;
                                                                                                     <a href="/customer/account" class="account-link">Akun Saya</a>
                                                                                           </div>
                                                                                           <button>
-                                                                                                    <a href="https://argenbio.landakenjoy.shop/">Masuk</a>
+                                                                                                    <a href="https://baseg.landakenjoy.shop/">Masuk</a>
                                                                                           </button>
                                                                                 </div>
                                                                       </div>
@@ -4650,18 +4650,18 @@ font-size:12px;
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li class="download-app-link">
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" /> download apps </a>
                                                                                                               <div class="download-popup">
                                                                                                                         <div class="wrap">
                                                                                                                                   <div class="right-cols">
                                                                                                                                             <div class="app-content"> download app from: <div class="view code app_store">
-                                                                                                                                                                <a class="sh-store-link" href="https://argenbio.landakenjoy.shop/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                                                                                                                <a class="sh-store-link" href="https://baseg.landakenjoy.shop/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
                                                                                                                                                       <div class="view code play_store">
-                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://argenbio.landakenjoy.shop/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                                                                                                                                                                <a class="sh-store-link" data-test="google-play-link" href="https://baseg.landakenjoy.shop/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                                                                                                                                                                           <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                                                                                                                                                                 </a>
                                                                                                                                                       </div>
@@ -4672,7 +4672,7 @@ font-size:12px;
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" /> gift registry </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -4716,17 +4716,17 @@ font-size:12px;
                                                                                 <div class="header_panel_info">
                                                                                           <ul>
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://anak-cungkok.pages.dev/fotofoto/favill.png" />LOGIN </a>
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://anak-cungkok.pages.dev/fotofoto/favill.png" />DAFTAR </a>
                                                                                                     </li>
 
                                                                                                     <li>
-                                                                                                              <a href="https://argenbio.landakenjoy.shop/" target="_blank">
+                                                                                                              <a href="https://baseg.landakenjoy.shop/" target="_blank">
                                                                                                                         <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us </a>
                                                                                                     </li>
                                                                                           </ul>
@@ -4900,7 +4900,7 @@ font-size:12px;
 
 
                                                   <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true" data-dropdown-parent="true">
-                                                            <a class="action toggle switcher-trigger" href="https://www.argenbio.org/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
+                                                            <a class="action toggle switcher-trigger" href="https://baseg.nsk.ru/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
                                                                       <div id="customer-name-container" data-bind="scope: &#39;customer-name&#39;">
                                                             <div id="customer-name" class="customer-name" data-bind="visible: isLoggedIn(), text: getFirstName()" style="display: none;"></div>
                                                   </div><span class="abs-visually-hidden">Akun Saya</span>
@@ -4909,7 +4909,7 @@ font-size:12px;
                                                             <div class="dropdown switcher-dropdown" data-target="dropdown">
                                                                       <ul class="header links">
                                                                                 <li class="link authorization-link loginRevamp" data-label="Atau">
-                                                                                          <a href="https://argenbio.landakenjoy.shop/"> Masuk / buat akun </a>
+                                                                                          <a href="https://baseg.landakenjoy.shop/"> Masuk / buat akun </a>
                                                                                 </li>
 
                                                                                 <script data-breeze>
@@ -4927,10 +4927,10 @@ font-size:12px;
 
 
                                                                                 <li style="display: none;">
-                                                                                          <a href="https://www.argenbio.org/"> buat akun </a>
+                                                                                          <a href="https://baseg.nsk.ru/"> buat akun </a>
                                                                                 </li>
                                                                                 <li>
-                                                                                          <a href="https://www.argenbio.org/">
+                                                                                          <a href="https://baseg.nsk.ru/">
                                                                                                     <span>Bantuan</span>
                                                                                           </a>
                                                                                 </li>
@@ -4939,13 +4939,13 @@ font-size:12px;
                                                   </div>
 
                                                   <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                                                            <a class="action toggle switcher-trigger" href="https://www.argenbio.org/" title="Daftar Keinginan">
+                                                            <a class="action toggle switcher-trigger" href="https://baseg.nsk.ru/" title="Daftar Keinginan">
                                                                       <span class="abs-visually-hidden">Daftar Keinginan</span>
                                                             </a>
                                                   </div>
 
                                                   <div data-block="minicart" class="minicart-wrapper">
-                                                            <a class="action showcart" href="https://www.argenbio.org/" data-bind="scope: 'minicart_content'">
+                                                            <a class="action showcart" href="https://baseg.nsk.ru/" data-bind="scope: 'minicart_content'">
                                                                       <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -5162,7 +5162,7 @@ font-size:12px;
                                                                                                                                                       "@context": "https://schema.org",
                                                                                                                                                       "@type": "Organization",
                                                                                                                                                       "name": "LANDAKTOTO",
-                                                                                                                                                      "url": "https://www.argenbio.org/",
+                                                                                                                                                      "url": "https://baseg.nsk.ru/",
                                                                                                                                                       "logo": "https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
                                                                                                                                                       "description": "LANDAKTOTO menghadirkan situs game online lengkap dengan beragam pilihan permainan, bonus menarik, serta akses yang mudah melalui berbagai perangkat untuk pengalaman bermain yang lebih praktis.",
                                                                                                                                                       "foundingDate": "2024",
@@ -5238,27 +5238,27 @@ font-size:12px;
                                                                                                                                                                 "@type": "ListItem",
                                                                                                                                                                 "position": 1,
                                                                                                                                                                 "name": "LANDAKTOTO",
-                                                                                                                                                                "item": "https://www.argenbio.org/"
+                                                                                                                                                                "item": "https://baseg.nsk.ru/"
                                                                                                                                                       }, {
                                                                                                                                                                 "@type": "ListItem",
                                                                                                                                                                 "position": 2,
                                                                                                                                                                 "name": "SITUS TOGEL",
-                                                                                                                                                                "item": "https://www.argenbio.org/"
+                                                                                                                                                                "item": "https://baseg.nsk.ru/"
                                                                                                                                                       }, {
                                                                                                                                                                 "@type": "ListItem",
                                                                                                                                                                 "position": 3,
                                                                                                                                                                 "name": "SITUS TOTO MACAU",
-                                                                                                                                                                "item": "https://www.argenbio.org/"
+                                                                                                                                                                "item": "https://baseg.nsk.ru/"
                                                                                                                                                       }, {
                                                                                                                                                                 "@type": "ListItem",
                                                                                                                                                                 "position": 4,
                                                                                                                                                                 "name": "BANDAR TOGEL TERPERCAYA",
-                                                                                                                                                                "item": "https://www.argenbio.org/"
+                                                                                                                                                                "item": "https://baseg.nsk.ru/"
                                                                                                                                                       }, {
                                                                                                                                                                 "@type": "ListItem",
                                                                                                                                                                 "position": 5,
                                                                                                                                                                 "name": "DATA MACAU",
-                                                                                                                                                                "item": "https://www.argenbio.org/"
+                                                                                                                                                                "item": "https://baseg.nsk.ru/"
                                                                                                                                                       }]
                                                                                                                                             }
                                                                                                                                   </script>
@@ -5277,7 +5277,7 @@ font-size:12px;
 
 
                                                                                           <div class="kc-cashback check">
-                                                                                                    <a href="https://argenbio.landakenjoy.shop/" class="kc-points-lable">
+                                                                                                    <a href="https://baseg.landakenjoy.shop/" class="kc-points-lable">
                                                                                                               <img src="https://anak-cungkok.pages.dev/fotofoto/favill.png" class="kcpoints-img" width="30px">
                                                                                                               <span>LANDAK TOTO <span class="price">7.000.000</span> - <span class="price">100.000.000</span> Bonus </span>
                                                                                                     </a>
@@ -5349,7 +5349,7 @@ font-size:12px;
 
                                                                                 <div class="product-config">
                                                                                           <div class="product-add-form">
-                                                                                                    <form data-product-sku="52135545-AYO01" action="https://www.argenbio.org/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+                                                                                                    <form data-product-sku="52135545-AYO01" action="https://baseg.nsk.ru/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
                                                                                                               <input type="hidden" name="product" value="600193">
                                                                                                               <input type="hidden" name="selected_configurable_option" value="">
                                                                                                               <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -5389,14 +5389,14 @@ font-size:12px;
                                                                                                                                             </div>
 
                                                                                                                                             <div class="actions">
-                                                                                                                                                      <a href="https://argenbio.landakenjoy.shop/">
+                                                                                                                                                      <a href="https://baseg.landakenjoy.shop/">
                                                                                                                                                                 <button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #dba300;">
                                                                                                                                                                           <span>LOGIN</span>
                                                                                                                                                                 </button>
                                                                                                                                                       </a>
-                                                                                                                                                      <a href="https://argenbio.landakenjoy.shop/" class="action towishlist" data-action="add-to-wishlist">
+                                                                                                                                                      <a href="https://baseg.landakenjoy.shop/" class="action towishlist" data-action="add-to-wishlist">
                                                                                                                                                                 <span>DAFTAR</span>
-                                                                                                                                                      </a><div id="giftreg-message-pdp" style=""><a href="https://argenbio.landakenjoy.shop/" class="notlogingift"><img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" /> CLAIM BONUS </a></div>
+                                                                                                                                                      </a><div id="giftreg-message-pdp" style=""><a href="https://baseg.landakenjoy.shop/" class="notlogingift"><img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" /> CLAIM BONUS </a></div>
                                                                                                                                                       <script type="text/x-magento-init" data-breeze-processed="true"> {
         "body": {
             "addToWishlist": {"productType":"configurable","giftcardInfo":"[id^=giftcard]"}        }
@@ -5553,33 +5553,33 @@ function myFunction() {
                                                                                                               <img alt="" class="main-image" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png" width="608" height="608">
                                                                                                     </div>
 
-                                                                                                    <a href="https://www.argenbio.org/" class="prev" tabindex="-1">
+                                                                                                    <a href="https://baseg.nsk.ru/" class="prev" tabindex="-1">
                                                                                                               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                                                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                                                                                                               </svg>
                                                                                                     </a>
 
-                                                                                                    <a href="https://www.argenbio.org/" class="next" tabindex="-1">
+                                                                                                    <a href="https://baseg.nsk.ru/" class="next" tabindex="-1">
                                                                                                               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                                                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                                                                                                               </svg>
                                                                                                     </a>
 
                                                                                                     <div class="controls">
-                                                                                                              <a href="https://www.argenbio.org/" class="zoom zoom-in">
+                                                                                                              <a href="https://baseg.nsk.ru/" class="zoom zoom-in">
                                                                                                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                                                                                                   <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                                                                                                                         </svg>
                                                                                                               </a>
 
-                                                                                                              <a href="https://www.argenbio.org/" class="zoom zoom-out">
+                                                                                                              <a href="https://baseg.nsk.ru/" class="zoom zoom-out">
                                                                                                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                                                                                                   <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                                                                                                                         </svg>
                                                                                                               </a>
                                                                                                     </div>
 
-                                                                                                    <a href="https://www.argenbio.org/" class="close">
+                                                                                                    <a href="https://baseg.nsk.ru/" class="close">
                                                                                                               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                                                                                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                                                                                                               </svg>
@@ -5587,55 +5587,55 @@ function myFunction() {
                                                                                           </div>
 
                                                                                           <div class="thumbnails ">
-                                                                                                    <a class="item active" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item active" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
                                                                                                     </a>
 
-                                                                                                    <a class="item" href="https://www.argenbio.org/" title="View Image">
+                                                                                                    <a class="item" href="https://baseg.nsk.ru/" title="View Image">
                                                                                                               <span class="slide-image-container">
                                                                                                                         <img loading="lazy" alt="" src="https://kampung-halaman-7jg.pages.dev/foto-banner/melimpah.png">
                                                                                                               </span>
@@ -9007,7 +9007,7 @@ function myFunction() {
 
 
 
-<div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">LANDAKTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LOGIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LINK</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO ALTERNATIF</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO RESMI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LINK ALTERNATIF</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LOGIN ALTERNATIF</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LINK RESMI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LINK</a></p></div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.argenbio.org/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://www.argenbio.org/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p><p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop"><p>ikuti kami di media sosial</p><div style="display:flex;column-gap:20px"><a class="item" href="https://www.argenbio.org/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a><a class="item" href="https://www.argenbio.org/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a><a class="item" href="https://www.argenbio.org/"><img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a></div></div><style>
+<div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">LANDAKTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LOGIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LINK</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO ALTERNATIF</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO RESMI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LINK ALTERNATIF</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LOGIN ALTERNATIF</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LANDAKTOTO LINK RESMI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//landaktoto-ph.com/">LINK</a></p></div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://baseg.nsk.ru/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://baseg.nsk.ru/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p><p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop"><p>ikuti kami di media sosial</p><div style="display:flex;column-gap:20px"><a class="item" href="https://baseg.nsk.ru/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a><a class="item" href="https://baseg.nsk.ru/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a><a class="item" href="https://baseg.nsk.ru/"><img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a></div></div><style>
                                                                                                               .footer-desktop {
                                                                                                                         display: block;
                                                                                                               }
@@ -9032,7 +9032,7 @@ function myFunction() {
 
 
 
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi LANDAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://argenbio.landakenjoy.shop/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store"></a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://argenbio.landakenjoy.shop/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a><style>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi LANDAKTOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://baseg.landakenjoy.shop/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store"></a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://baseg.landakenjoy.shop/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a><style>
                                                                                                               @media (min-width:768px) {
                                                                                                                         .footer-google-play-img {
                                                                                                                                   width: 70%;
@@ -9045,7 +9045,7 @@ function myFunction() {
 
 
 
-</div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;"><p>ikuti kami di media sosial</p><div style="display:flex;column-gap:20px;justify-content: center;"><a class="item" href="https://www.argenbio.org/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a><a class="item" href="https://www.argenbio.org/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a><a class="item" href="https://www.argenbio.org/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a></div></div></div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"><span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span><span><a target="_blank" href="https://www.argenbio.org/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="iso logo"></a></span></div><div><span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br> Kementerian Perdagangan RI <br> WhatsApp: +62 821 7750 2820 </span></div><style>
+</div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;"><p>ikuti kami di media sosial</p><div style="display:flex;column-gap:20px;justify-content: center;"><a class="item" href="https://baseg.nsk.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a><a class="item" href="https://baseg.nsk.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a><a class="item" href="https://baseg.nsk.ru/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a></div></div></div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"><span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span><span><a target="_blank" href="https://baseg.nsk.ru/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="iso logo"></a></span></div><div><span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br> Kementerian Perdagangan RI <br> WhatsApp: +62 821 7750 2820 </span></div><style>
                                                                                                               .cms-page-view .breadcrumbs {
                                                                                                                         display: none;
                                                                                                               }
@@ -9117,7 +9117,7 @@ function myFunction() {
                                         require(['jquery', 'Magento_Ui/js/modal/modal'], function($, modal) {
                                                   let dataMinicart = $('#giftreg-message-minicart');
                                                   let datapdp = $('#giftreg-message-pdp');
-                                                  let formUrl = 'https://www.argenbio.org/';
+                                                  let formUrl = 'https://baseg.nsk.ru/';
                                                   // $('.action.showcart').click(function(){
                                                   // 	setTimeout(function(){
                                                   // 		$('#minicart-content-wrapper .block-content').find('#giftreg-message-minicart').remove();
@@ -9429,7 +9429,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://www.argenbio.org/",
+                                "createUrl": "https://baseg.nsk.ru/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
